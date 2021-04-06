@@ -48,7 +48,7 @@ body{
     width: 50vh;
     border-radius: 5%;
     border: 0;
-    background-image: url(/images/bg-pattern-card.svg);
+    background-image: url(images/bg-pattern-card.svg);
     background-repeat: no-repeat;
     background-size: 100%;
 }
